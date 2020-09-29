@@ -76,7 +76,7 @@ test_size = 0.2 means 20% of data, so here 2 rows will be in test, rest will be 
 
 """
 
-
+#gonna add some basic youtube videos for this and for every code here on git just of refrence purposes
 
 
 
